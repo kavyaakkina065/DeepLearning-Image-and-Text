@@ -1,0 +1,51 @@
+=== Prompt 0 (Sample 0) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+Who is Michael Jordan and what sport is he known for?
+
+
+
+
+
+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
+
+=== Prompt 0 (Sample 1) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+Who is Michael Jordan and what sport is he known for? Jordan was the first NBA player to win a Golden State @-@ award in his first season with the Lakers. Jordan was the second NBA player to win a Golden State @-@ award in his first season with the Lakers. Jordan won five NBA Finals games, including the 1999 NBA Finals with the Los Angeles Lakers. Jordan won eight NBA titles, including the 1985 NBA Finals with the Los Angeles Lakers
+
+=== Prompt 0 (Sample 2) ===
+Prompt: Who is Michael Jordan and what sport is he known for?
+=== Generation ===
+Who is Michael Jordan and what sport is he known for? Jordan is the epitome of success in this sport, winning two Emmys, and winning five World Series. Jordan has won two Emmys, winning two Emmys, and winning five World Series. His name is Michael Jordan's best actor, but his film credits include a critical reception. Jordan has been known for his acting skills and his character in the film's first scene, which depicts
+
+=== Prompt 1 (Sample 0) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+What are Ancient Egyptian deities? Are these deities unique to the Old Kingdom or the New Kingdom or what have they been associated with in the past? The most basic of these deities are called the Egyptian gods ", which are known to be related to both ancient Egyptian and Ancient Egyptian gods. The oldest common gods are the Egyptian gods, and are known to be associated with certain aspects of the Old Kingdom or the New Kingdom or what have
+
+=== Prompt 1 (Sample 1) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+What are Ancient Egyptian deities? Did they have to have some form of " goddesses?" ( Genesis 8:16 ), or did they have to be related to gods of gods of their own birth, or were they related to deities of the gods of a given god or deity of another god. There are some mythological deities. Some are found in the Nile, others are found in the Nile, and others are associated with
+
+=== Prompt 1 (Sample 2) ===
+Prompt: What are Ancient Egyptian deities?
+=== Generation ===
+What are Ancient Egyptian deities? These are the gods of Egypt. Ancient Egyptian gods are a complex of human beings which are divided into two groups. The two groups are known as the " gods of Egyptian art ", " god worshipers, and " goddess worshipers. In Egypt, the god worshipers are the gods of Egypt. In the Ancient Egyptian gods, the gods of the gods of Egypt are gods of the sun,
+
+=== Prompt 2 (Sample 0) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences. 1. The first is a discussion on the effects of the Earth's crust and the effects of the heat on climate. 2. The second is a discussion on the effects of ocean ice on climate. 3. The third is a discussion on the impact of climate on the climate system on the climate system. 4. The fourth is a discussion on the effects of ice on climate. 5. The fifth
+
+=== Prompt 2 (Sample 1) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences. The first has an inscription, indicating that the last Tectonic formation began when it reached the upper echelons of the Earth. The second has a inscription, indicating that the first Tectonic formation began when it reached the upper echelons of the Earth. The third has a inscription, indicating that the last Tectonic formation began when it reached the upper echelons of the Earth
+
+=== Prompt 2 (Sample 2) ===
+Prompt: The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences.
+=== Generation ===
+The Himalayas: tectonic origin, highest peaks, and impact on regional climate. Two sentences. The first and second sentence contain the following words, " A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " = A " =
+
